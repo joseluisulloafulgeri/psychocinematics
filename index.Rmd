@@ -1,9 +1,19 @@
 --- 
 title: "Una mirada a la psicocinemática"
-author: "José Luis Ulloa"
-date: "`r Sys.Date()`"
+author: "Según José Luis Ulloa Fulgeri (joseluisulloafulgeri@gmail.com)"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Preámbulo {-}
 
+En la escena de apertura <a href="https://www.youtube.com/watch?v=QlUK8okc1YQ" target="_blank">(aquí)</a>\ de El Graduado (The Graduate, 1967, dirigido por Mike Nichols) un joven Benjamin Braddock (Dustin Hoffman) llega en avión en aeropuerto y camina junto a la música de Simon y Garfunkel por una varanda que lo transporta afuera del aeropuerto. Su apariencia es la de un niño que está regresando a casa. Hay algo particular en su inmovilidad móvil que nos adelanta un poco de que se va a tratar la película.
+
+Esta plataforma es un experimento. Una forma de ir tomando notas de lo que creo que es unas de las cosas más fascinantes con las que me he encontrado en mi vida adulta: el cine. Gran parte de este material se lo debo a Arthur P. Shimamura por su libro "Psychocinematics: Exploring cognition at the movies".
+
+En este punto tengo mas preguntas que respuestas:
+
+- ¿Qué hace que una película sea una experiencia tan inmersiva?
+- ¿Por qué nos fascinan tanto las películas que muestran drama y terror?
+
+Por el momento tengo sólo una idea clara.
+¡Qué maravilloso es el cine!
